@@ -3,11 +3,11 @@ import "./slider.css";
 
 export default function Slider() {
   const slideImg = [
-    "./inc1.jpg",
-    "./inc4.jpg",
-    "./inc8.jpg",
-    "./inc7.jpg",
-    "./inc6.jpg",
+    "./ais1.jpg",
+    "./ais2.jpg",
+    "./ais3.jpg",
+    "./ais4.jpg",
+    "./ais5.jpg",
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
