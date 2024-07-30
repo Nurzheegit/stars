@@ -6,7 +6,7 @@ export default function Slider() {
     "./ais1.jpg",
     "./ais2.jpg",
     "./ais3.jpg",
-    "./ais4.jpg",
+    "./ais4.png",
     "./ais5.jpg",
   ];
 
